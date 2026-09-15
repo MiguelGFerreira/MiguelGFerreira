@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-Systems Analyst with years of experience shipping and maintaining production systems — from legacy ASP/VBScript to modern React/Next.js apps, ERP integrations, and WMS deployments.
+Systems Analyst with 4 years of experience shipping and maintaining production systems — from legacy ASP/VBScript to modern React/Next.js apps, ERP integrations, and WMS deployments.
 
 - 💼 **IT/Systems Analyst** @ Grupo Tristão *(Aug 2022 → present)*
 - 🎓 B.Sc. in Information Systems — UVV, 2024
